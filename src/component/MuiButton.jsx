@@ -77,7 +77,7 @@ export const MuiButton = () => {
     )
 }
 
-// 1. variant --> three variants of buttons (button with href convert into anchor tag)
+// 1. variant --> three variants of buttons. contained, outlined  (button with href convert into anchor tag)
 // 2. Button --> (variant, size, color, startIcon, endIcon, onclick)
 // 3. Stack --> like div with default flexbox properties (default: column) (display, gap, direction)
 // 4. IconButton -->  wrap icon init
