@@ -4,6 +4,7 @@ import { MuiBreadcrums } from "./component/MuiBreadcrums"
 import { MuiButton } from "./component/MuiButton"
 import { MuiCard } from "./component/MuiCard"
 import { MuiCheckbox } from "./component/MuiCheckbox"
+import { MuiDrawar } from "./component/MuiDrawar"
 import { MuiImageList } from "./component/MuiImageList"
 import { MuiLayout } from "./component/MuiLayout"
 import { MuiLink } from "./component/MuiLink"
@@ -34,7 +35,7 @@ function App() {
       <MuiNavbar />
       <MuiLink />
       <MuiBreadcrums />
-
+      <MuiDrawar/>
     </>
   )
 }
